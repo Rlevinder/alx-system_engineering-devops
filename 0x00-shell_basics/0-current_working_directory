@@ -1,3 +1,4 @@
-#! /bin/bash
+#!/bin/bash
+Working directory \n
 pwd
-/n
+\n
