@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -l  __ls__ 
+ls -l __ls__ 
+
